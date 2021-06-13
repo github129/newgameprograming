@@ -2,8 +2,8 @@
 name: "awuxa"
 title: "はじめてゲームプログラミング"
 description: "はじめてゲームプログラミングのゲームコードまとめサイト"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo2.png'
+favicon: 'assets/images/logo2.png'
 baseurl: /newgameprograming
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
