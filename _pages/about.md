@@ -10,8 +10,7 @@ comments: true
 
 <p> 2021/6/11 発売「はじめてゲームプログラミング」のゲームまとめサイトです</p>
 
-<p>記事の掲載や削除などを含む問い合わせはすべて Twitter のDMにてお願いいたします。[awuxa1](https://twitter.com/awuxa1)</p>
+<p>記事の掲載や削除などを含む問い合わせはすべて Twitter のDMにてお願いいたします。https://twitter.com/awuxa1</p>
 
-</div>
 </div>
 </div>
