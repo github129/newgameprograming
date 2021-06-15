@@ -1,7 +1,7 @@
 # Site
 name: "みんなのゲームプログラミング"
-title: "はじめてゲームプログラミング_Awuxa"
-description: "はじめてゲームプログラミングのゲームコードまとめサイト"
+title: "みんなのゲームプログラミング_Awuxa"
+description: "はじめてゲームプログラミングのゲームIDまとめサイト"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 'https://awuxa.com'
